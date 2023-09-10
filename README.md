@@ -1,1 +1,1 @@
-# mojo-practice
+# mojo
